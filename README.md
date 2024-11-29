@@ -10,8 +10,11 @@
  # Features of the Project
 
  Data Preprocessing: Clean and preprocess the raw text data to remove noise such as punctuation, stopwords, and special characters.
+ 
  Exploratory Data Analysis (EDA): Analyze review patterns, word frequency, and sentiment distribution.
- Text Vectorization: Convert text data into numerical
+ 
+ Text Vectorization: Convert text data into numerical.
+ 
  Sentiment Classification: Use machine learning models like Random Forest, K fold cross-validation, XgBoost, and Decision Tree Classifier.
 
 
@@ -36,7 +39,7 @@ Sentiment classification accuracy: [94%]
 
 Insights:
 
-Most reviews are positive about Alexa's key feature(s).
+Most reviews are positive about Alexa's good, enjoying, amazing, best, great, etc.
 
 Frequent complaints revolve around garbage, pointless, poor, horrible, repair, etc.
 
